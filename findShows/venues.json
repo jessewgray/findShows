@@ -1,0 +1,17 @@
+[
+	
+	{
+		"venue": "the garrison",
+		"address": "1197 Dundas St W, Toronto, ON M6J 1X3, Canada", 
+		"lat": 43.649266,
+		"lon": -79.422332
+		},
+	
+	{
+		"venue": "the phoenix",
+		"address": "410 Sherbourne St, Toronto, ON M5X 1K2, Canada",
+		"lat": 43.66467,
+		"lon": -79.37394
+	}
+
+]
