@@ -1,12 +1,124 @@
 [
-	
 	{
-		"venue": "the garrison",
+		"venue": "Adelaide Hall",
+		"address": "250 Adelaide St W, Toronto, ON M5H 1X6, Canada", 
+		"lat": 43.648368,
+		"lon": -79.389119 
+	},
+	{
+		"venue": "ALLIANCE FRANCAISE THEATRE",
+		"address": "24 Spadina Rd, Toronto, ON M5R 2S7, Canada", 
+		"lat": 43.668707,
+		"lon": -79.405283 
+	},
+	{
+		"venue": "ANNEX WRECKROOM",
+		"address": "794 Bathurst St, Toronto, ON M5R 3G1, Canada", 
+		"lat": 43.665399,
+		"lon": -79.411472 
+	},
+	{
+		"venue": "Arboretum",
+		"address": "205 Humber College Blvd, Etobicoke, ON M9W 5L7, Canada", 
+		"lat": 43.726095,
+		"lon": -79.607971 
+	},
+	{
+		"venue": "Array Space",
+		"address": "155 Walnut Ave, Toronto, ON M6J 3W3, Canada", 
+		"lat": 43.644243,
+		"lon": -79.409943 
+	},
+	{
+		"venue": "Arraymusic",
+		"address": "155 Walnut Ave, Toronto, ON M6J 3W3, Canada", 
+		"lat": 43.644288,
+		"lon": -79.409918 
+	},
+	{
+		"venue": "ARTSCAPE GIBRALTAR POINT",
+		"address": "443 Lakeshore Ave, Toronto, ON M5J 2W2, Canada", 
+		"lat": 43.612932,
+		"lon": -79.384027 
+	},
+	{
+		"venue": "Baby G",
+		"address": "1608 Dundas St W, Toronto, ON M6K 1T8, Canada", 
+		"lat": 43.650019,
+		"lon": -79.435404 
+	},
+	{
+		"venue": "BOVINE SEX CLUB",
+		"address": "542 Queen St W, Toronto, ON M5V 2B5, Canada", 
+		"lat": 43.64764,
+		"lon": -79.402784 
+	},
+	{
+		"venue": "BUDWEISER STAGE",
+		"address": "909 Lake Shore Blvd W, Toronto, ON M6K 3L3, Canada", 
+		"lat": 43.629246,
+		"lon": -79.415239
+	},
+	{
+		"venue": "Burdock",
+		"address": "1184 Bloor St W, Toronto, ON M6H 1N2, Canada", 
+		"lat": 43.659492,
+		"lon": -79.437754 
+	},
+	{
+		"venue": "Burdock",
+		"address": "1184 Bloor St W, Toronto, ON M6H 1N2, Canada", 
+		"lat": 43.659492,
+		"lon": -79.437754 
+	},
+	{
+		"venue": "CABANA POOL BAR",
+		"address": "11 Polson St, Toronto, ON M5A 1A4, Canada", 
+		"lat": 43.640021,
+		"lon": -79.354376
+	},
+	{
+		"venue": "Danforth Music Hall",
+		"address": "147 Danforth Ave, Toronto, ON M4K 1N2, Canada", 
+		"lat": 43.676235,
+		"lon": -79.357004 
+	},
+	{
+		"venue": "Drake Hotel",
+		"address": "1150 Queen St W, Toronto, ON M6J 1J3, Canada", 
+		"lat": 43.643189,
+		"lon": -79.424603 
+	},
+	{
+		"venue": "Echo Beach",
+		"address": "909 Lake Shore Blvd W, Toronto, ON M6K 3L3, Canada", 
+		"lat": 43.629709,
+		"lon": -79.411165 
+	},
+	{
+		"venue": "Forest in Quebec",
+		"address": "80 Parkway Forest Dr, Toronto, ON M2J, Canada", 
+		"lat": 43.771217,
+		"lon": -79.341275 
+	},
+	{
+		"venue": "Frontier Ghost Town",
+		"address": "503186 Grey County Rd 12, West Grey, ON N0C, Canada", 
+		"lat": 44.265837,
+		"lon": -80.819523 
+	},
+	{
+		"venue": "Garrison",
 		"address": "1197 Dundas St W, Toronto, ON M6J 1X3, Canada", 
 		"lat": 43.649266,
 		"lon": -79.422332
-		},
-	
+	},
+	{
+		"venue": "Great Hall",
+		"address": "1087 Queen St W, Toronto, ON M6J 1H3, Canada", 
+		"lat": ,
+		"lon":  
+	},
 	{
 		"venue": "the phoenix",
 		"address": "410 Sherbourne St, Toronto, ON M5X 1K2, Canada",
@@ -15,3 +127,13 @@
 	}
 
 ]
+
+
+
+{
+		"venue": "",
+		"address": "", 
+		"lat": ,
+		"lon":  
+	},
+
